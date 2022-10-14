@@ -2,6 +2,13 @@
 
 Simple Keylogger made using C++, runs in background and records and stores all Keyboard input events as well as mouse clicks
 
+
+https://user-images.githubusercontent.com/37842304/195762462-17bed831-85e8-472c-ad52-c66d0c36e3a2.mp4
+
+
+
+Keystrokes saved to file
+
 ![image](https://user-images.githubusercontent.com/37842304/195666356-6f11ce8f-5a55-4722-ab72-6871b88ab111.png)
 
 
@@ -33,3 +40,5 @@ Features to be implemented soon...
 - Sending Keystrokes to a webserver
 - Recording more detailed Mouse inputs
 - Optimise for lower CPU usage
+
+The original repo is at https://github.com/HarshitJoshi9152/CppKeyLogger
